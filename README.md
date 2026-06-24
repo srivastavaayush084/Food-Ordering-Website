@@ -26,21 +26,6 @@ A modern and responsive **Food Ordering Website** built using **React.js** and *
 * CSS3
 * React Router DOM
 
-## 📂 Installation
-
-```bash
-git clone git@github.com:srivastavaayush084/Food-Ordering-Website.git
-
-cd Food-Ordering-Website
-
-npm install
-
-npm run dev
-```
-
-## 📸 Screenshots
-
-*Add screenshots of the Home, Menu, and Cart pages.*
 
 ## 📈 Future Improvements
 
